@@ -1,0 +1,8 @@
+{
+  "presets":[
+    "@babel/env",
+    "@babel/react"
+  ]
+}
+
+// mongod --dbpath /users/alberto.martinez-jara.bg0646/Desktop/reactApp/db
